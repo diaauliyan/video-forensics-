@@ -10,9 +10,11 @@ detection of Intra-Frame forgery in suspected videos
 
 3-run_hilecop.m or ufo_run.m
 
-4-see the results
+4- run vgg16.py
 
-note: download all matlab files:- read_frames, adaptive filter, GRM, highpass, DCT1
+5-see the results
+
+note: download all matlab files:- read_frames, adaptive filter, GRM, highpass, DCT1, vgg16
 
 the link is
  https://github.com/diaauliyan/video-forensics-.git 
